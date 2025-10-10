@@ -34,7 +34,7 @@ Love: Creative design, space vibes, learning fast
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,js,flask,git,github,vscode,linux&theme=dark" alt="Tech stack"/> </div>
 
 <div align="center">
-  <img src="[![Video-Generation-From-Image-ezgif-com-speed.gif](https://i.postimg.cc/v87SDzLz/Video-Generation-From-Image-ezgif-com-speed.gif)](https://postimg.cc/JtnQ2jFD)" width="300" alt="Space Coding GIF"/>
+  <img src="https://i.postimg.cc/v87SDzLz/Video-Generation-From-Image-ezgif-com-speed.gif" width="300" alt="Space Coding GIF"/>
 </div>
 
 ---
