@@ -16,7 +16,7 @@
 
 ## 🌌 About This Cosmic Developer
 
-<div align="center"> <img src="https://i.postimg.cc/zfJTtCRG/ezgif-com-crop.gif" width="420" alt="Cosmic image"/> </div> <p align="center"> <b>Shakthinathan</b> — Vibe Coder • Astrophysics Enthusiast<br/> Bridging code and cosmos. Building 3D games in Python. </p>
+<div align="center"> <img src="https://i.postimg.cc/mkQQp8VP/ezgif-com-crop.gif" width="420" alt="Cosmic image"/> </div> <p align="center"> <b>Shakthinathan</b> — Vibe Coder • Astrophysics Enthusiast<br/> Bridging code and cosmos. Building 3D games in Python. </p>
 Name: Shakthinathan
 
 Role: Vibe Coder & Astrophysics Enthusiast
@@ -32,11 +32,6 @@ Current: 3D space shooter, Astronomy data visualizer
 Love: Creative design, space vibes, learning fast
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,js,flask,git,github,vscode,linux&theme=dark" alt="Tech stack"/> </div>
-
-<div align="center">
-  <img src="https://i.postimg.cc/v87SDzLz/Video-Generation-From-Image-ezgif-com-speed.gif" width="500" alt="THE CHOSEN ONE — Space Coding GIF" />
-</div>
-
 ---
 
 ## 🛸 Tech Arsenal & Cosmic Tools
