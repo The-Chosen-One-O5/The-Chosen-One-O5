@@ -140,10 +140,19 @@ print(f"Mission Status: {cosmic_dev.current_mission()}")
 
 ---
 
-## 🌌 Snake Game from Contributions
+## 🐍 Cosmic Snake Eating My Contributions
 
 <div align="center">
-  <img src="https://github.com/The-Chosen-One-O5/The-Chosen-One-O5/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Chosen-One-O5/The-Chosen-One-O5/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-Chosen-One-O5/The-Chosen-One-O5/output/github-snake.svg" />
+    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/The-Chosen-One-O5/The-Chosen-One-O5/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Snake Animation"/>
+  <p><em>🐍 Watch the cosmic snake devour my coding contributions!</em></p>
 </div>
 
 ---
@@ -180,7 +189,7 @@ print(f"Mission Status: {cosmic_dev.current_mission()}")
   <a href="https://github.com/The-Chosen-One-O5">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0d1117" alt="GitHub"/>
   </a>
-  <a href="mailto:your.email@cosmic.dev">
+  <a href="mailto:shakthinathan2008@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/shakthinathan">
@@ -202,6 +211,7 @@ print(f"Mission Status: {cosmic_dev.current_mission()}")
 - ⚡ Always vibing to cosmic music while coding
 - 📚 Currently acing CBSE Class 12 with 145 IQ power
 - 🎨 Draw cosmic scenes and design space-themed posters
+- 🌌 Believe every line of code is a star in the digital universe
 
 ---
 
