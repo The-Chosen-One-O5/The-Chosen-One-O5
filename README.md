@@ -16,7 +16,7 @@
 
 ## 🌌 About This Cosmic Developer
 
-<div align="center"> <img src="https://i.postimg.cc/BvLsTD7N/image-1.png" width="420" alt="Cosmic image"/> </div> <p align="center"> <b>Shakthinathan</b> — Vibe Coder • Astrophysics Enthusiast<br/> Bridging code and cosmos. Building 3D games in Python. </p>
+<div align="center"> <img src="https://i.postimg.cc/zfJTtCRG/ezgif-com-crop.gif" width="420" alt="Cosmic image"/> </div> <p align="center"> <b>Shakthinathan</b> — Vibe Coder • Astrophysics Enthusiast<br/> Bridging code and cosmos. Building 3D games in Python. </p>
 Name: Shakthinathan
 
 Role: Vibe Coder & Astrophysics Enthusiast
