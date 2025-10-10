@@ -16,40 +16,22 @@
 
 ## 🌌 About This Cosmic Developer
 
-<div align="center">
-  <img src="https://i.postimg.cc/BvLsTD7N/image-1.png" width="400" alt="Cosmic Developer Avatar"/>
-</div>
+<div align="center"> <img src="https://i.postimg.cc/BvLsTD7N/image-1.png" width="420" alt="Cosmic image"/> </div> <p align="center"> <b>Shakthinathan</b> — Vibe Coder • Astrophysics Enthusiast<br/> Bridging code and cosmos. Building 3D games in Python. </p>
+Name: Shakthinathan
 
-```python
-class CosmicDeveloper:
-    def __init__(self):
-        self.name = "Shakthinathan"
-        self.role = "Vibe Coder & Astrophysicist"
-        self.location = "Somewhere in the Milky Way 🌌"
-        self.mission = "Bridging the gap between code and cosmos"
-        
-    def get_cosmic_skills(self):
-        return {
-            "🚀 Programming": ["Python", "C++", "JavaScript", "HTML/CSS"],
-            "🪐 Astrophysics": ["Data Analysis", "Simulations", "Research"],
-            "🛸 Frameworks": ["Panda3D", "PyOpenGL", "NumPy", "Matplotlib"],
-            "⭐ Specialties": ["3D Game Development", "Scientific Computing", "AI Integration"]
-        }
-        
-    def current_mission(self):
-        return [
-            "🎮 Building immersive 3D space games",
-            "🔬 Analyzing astronomical data",
-            "🤖 Integrating AI with astrophysics",
-            "📚 Mastering CBSE Class 12 subjects"
-        ]
-        
-    def philosophy(self):
-        return "Keep vibing, keep coding, keep exploring the universe! ✨"
+Role: Vibe Coder & Astrophysics Enthusiast
 
-cosmic_dev = CosmicDeveloper()
-print(f"Mission Status: {cosmic_dev.current_mission()}")
-```
+Mission: Bridging the gap between code and cosmos
+
+Core: Python, C++, JavaScript
+
+Tools: Flask, Panda3D, PyOpenGL, NumPy, Pandas, Matplotlib
+
+Current: 3D space shooter, Astronomy data visualizer
+
+Love: Creative design, space vibes, learning fast
+
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,js,flask,git,github,vscode,linux&theme=dark" alt="Tech stack"/> </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Space Coding GIF"/>
