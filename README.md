@@ -13,6 +13,7 @@
 </div>
 
 ---
+[![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/TheChosenOne)
 
 ## 🌌 About This Cosmic Developer
 
