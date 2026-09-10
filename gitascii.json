@@ -1,0 +1,331 @@
+{
+  "username": "The-Chosen-One-O5",
+  "widgets": [
+    {
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 10,
+        "y": 0
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Header"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1789059094407_0"
+    },
+    {
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
+      "position": {
+        "x": 10,
+        "y": 417
+      },
+      "size": {
+        "width": 780,
+        "height": 420
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Terminal Telemetry"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_1789059094407_1"
+    },
+    {
+      "widgetId": "surveillance-feeds",
+      "name": "Surveillance-feeds Widget",
+      "position": {
+        "x": 10,
+        "y": 845
+      },
+      "size": {
+        "width": 780,
+        "height": 190
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Social Feeds"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1789059094407_2"
+    },
+    {
+      "widgetId": "surveillance-loadout",
+      "name": "Surveillance-loadout Widget",
+      "position": {
+        "x": 10,
+        "y": 1051
+      },
+      "size": {
+        "width": 780,
+        "height": 200
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Daily Loadout"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1789059094407_3"
+    },
+    {
+      "instanceId": "widget_1789059111673",
+      "widgetId": "gitfest-lineup",
+      "name": "Gitfest-lineup Widget",
+      "position": {
+        "x": 300,
+        "y": 1267
+      },
+      "size": {
+        "width": 500,
+        "height": 650
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1789059158763",
+      "widgetId": "premium-ascii-profile-card",
+      "name": "Premium-ascii-profile-card Widget",
+      "position": {
+        "x": 0,
+        "y": 1949
+      },
+      "size": {
+        "width": 424,
+        "height": 424
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1789059177090",
+      "widgetId": "asciiprofile-info",
+      "name": "Asciiprofile-info Widget",
+      "position": {
+        "x": 15,
+        "y": 2373
+      },
+      "size": {
+        "width": 490,
+        "height": 400
+      },
+      "config": {
+        "accentColor": "#ffa657"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1789059220189",
+      "widgetId": "controlplane-bento",
+      "name": "Controlplane-bento Widget",
+      "position": {
+        "x": 0,
+        "y": 2736
+      },
+      "size": {
+        "width": 800,
+        "height": 340
+      },
+      "config": {
+        "layoutType": "hero",
+        "accentColor": "#00A7D1"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1789059244555",
+      "widgetId": "controlplane-system-loop",
+      "name": "Controlplane-system-loop Widget",
+      "position": {
+        "x": 0,
+        "y": 2984
+      },
+      "size": {
+        "width": 800,
+        "height": 360
+      },
+      "config": {
+        "layoutType": "hero",
+        "accentColor": "#00A7D1"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
+    },
+    {
+      "instanceId": "widget_1789059284392",
+      "widgetId": "godprofile-marquee",
+      "name": "Godprofile-marquee Widget",
+      "position": {
+        "x": 0,
+        "y": 3464
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "accentColor": "#b6a891"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 11
+    },
+    {
+      "instanceId": "widget_1789059945470",
+      "widgetId": "views-counter",
+      "name": "Views-counter Widget",
+      "position": {
+        "x": 24,
+        "y": 1299
+      },
+      "size": {
+        "width": 260,
+        "height": 160
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 13
+    },
+    {
+      "instanceId": "widget_1789060314711",
+      "widgetId": "gitfut-card",
+      "name": "Gitfut-card Widget",
+      "position": {
+        "x": 0,
+        "y": 1481
+      },
+      "size": {
+        "width": 300,
+        "height": 420
+      },
+      "config": {
+        "transparentBackground": true,
+        "hideBorder": true,
+        "hideDecorations": true,
+        "showTitle": false,
+        "enableHolo": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 12
+    },
+    {
+      "instanceId": "widget_1789060407589",
+      "widgetId": "codeweb-minimal-badge",
+      "name": "Codeweb-minimal-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 3555
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {
+        "suffix": ":)",
+        "animationType": "glitch",
+        "animationPreviewKey": 2
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 13
+    },
+    {
+      "instanceId": "widget_1789060471588",
+      "widgetId": "godprofile-globe",
+      "name": "Godprofile-globe Widget",
+      "position": {
+        "x": 432,
+        "y": 1965
+      },
+      "size": {
+        "width": 344,
+        "height": 350
+      },
+      "config": {
+        "accentColor": "#b6a891"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 14
+    },
+    {
+      "instanceId": "widget_1789060540617",
+      "widgetId": "profile-trophy",
+      "name": "Profile-trophy Widget",
+      "position": {
+        "x": 0,
+        "y": 3304
+      },
+      "size": {
+        "width": 800,
+        "height": 200
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 15
+    },
+    {
+      "instanceId": "widget_1789060597722",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 24,
+        "y": 664
+      },
+      "size": {
+        "width": 752,
+        "height": 157
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 16
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#050308",
+    "textColor": "#e5e5e5",
+    "accentColor": "#55ffff",
+    "borderColor": "#1a1424",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "rugbedbugg"
+  },
+  "templateId": "rugbedbugg",
+  "profileSlug": "default"
+}
